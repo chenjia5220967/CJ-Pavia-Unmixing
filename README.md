@@ -1,5 +1,6 @@
 # PRISMA-Pavia
 ##Hyperspectral Image Unmixing
+
 A list of hyperspectral image unmixing resources collected by Jia Chen (chen_jia@cug.edu.cn)
 
 ## Contents
@@ -33,7 +34,7 @@ A list of hyperspectral image unmixing resources collected by Jia Chen (chen_jia
 3. **A review of nonlinear hyperspectral unmixing methods.** JSTARS 2014, *R. Heylen et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6816071)] 
 4. **Spectral variability in hyperspectral data unmixing: A comprehensive review.** GRSM 2021, *R. Borsoi et al*.
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9439249)] [[Code](https://github.com/ricardoborsoi/unmixing_spectral_variability)] :fire:
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9439249)] [[Code](https://github.com/ricardoborsoi/unmixing_spectral_variability)] 
 
 
 
@@ -69,10 +70,10 @@ A list of hyperspectral image unmixing resources collected by Jia Chen (chen_jia
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4106058)]
 3. **Low-rank and sparse representation for hyperspectral image processing: A review.** GRSM 2021, *J Peng et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9451654)]
-4. **Nonlinear estimation of material abundances in hyperspectral images with 鈩?-norm spatial regularization.** TGRS 2013, *J. Chen et al*.
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6531654)] [[Code](http://www.jie-chen.com/index.php?nfssp=Reproducible)] :fire:
+4. **Nonlinear estimation of material abundances in hyperspectral images with L-norm spatial regularization.** TGRS 2013, *J. Chen et al*.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6531654)] [[Code](http://www.jie-chen.com/index.php?nfssp=Reproducible)] 
 5. **Kernel-based nonlinear spectral unmixing with dictionary pruning.** RS 2019, *Z. Li et al*.
-[[Paper](https://www.mdpi.com/2072-4292/11/5/529/pdf?version=1551778872)]  :fire:
+[[Paper](https://www.mdpi.com/2072-4292/11/5/529/pdf?version=1551778872)] 
 6. **Non-linear spectral unmixing by geodesic simplex volume maximization.** JSTSP 2010, *R. Heylen et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5605217)]
 7. **Fully constrained least squares spectral unmixing by simplex projection.** TGRS 2011, *R. Heylen et al*.
@@ -90,7 +91,7 @@ A list of hyperspectral image unmixing resources collected by Jia Chen (chen_jia
 ## Databases
 
 1. **A laboratory-created dataset with ground truth for hyperspectral unmixing evaluation.** JSTARS 2019, *M. Zhao et al*.
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8681610)] [[Data](http://www.jie-chen.com/index.php?nfssp=Data)] :fire:
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8681610)] [[Data](http://www.jie-chen.com/index.php?nfssp=Data)] 
 
 
 <a name="Produce" />
