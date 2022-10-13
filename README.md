@@ -116,7 +116,7 @@ A list of hyperspectral image unmixing resources collected by Jia Chen (chen_jia
 
 2. CYCU+3D-CNN
 
-3. DMBU+3D-
+3. DMBU+3D-CNN
 
 
 
