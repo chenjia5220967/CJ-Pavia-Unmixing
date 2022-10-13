@@ -56,7 +56,7 @@ A list of hyperspectral image unmixing resources collected by Jia Chen (chen_jia
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9709843)]
 5. **Multimodal hyperspectral unmixing: Insights from attention networks.** TGRS 2022, *Z. Han et al*. 
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9724217)] [[Code](https://github.com/hanzhu97702/IEEE_TGRS_MUNet)]
-
+6.
 
 
 
@@ -98,13 +98,25 @@ A list of hyperspectral image unmixing resources collected by Jia Chen (chen_jia
 
 ## Produce paper
 
-1.
+1.CYCU 
 
+2.NNA
+
+3.3D-CNN
+
+4.DMBU
+
+5.
 
 <a name="test" />
 
 ## Improvements and tests
-1.
+
+1. CYCU+NNA
+
+2. CYCU+3D-CNN
+
+3. DMBU+3D-
 
 
 
@@ -116,7 +128,7 @@ A list of hyperspectral image unmixing resources collected by Jia Chen (chen_jia
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9672688)] [[Code](https://github.com/burknipalsson/hu_autoencoders)]
 
 
-
+2.
 
 
 
