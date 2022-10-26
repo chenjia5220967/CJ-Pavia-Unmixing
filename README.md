@@ -49,7 +49,7 @@ A list of hyperspectral image unmixing resources collected by Jia Chen (chen_jia
 1. **Dual branch autoencoder network for spectral-spatial hyperspectral unmixing.** GRSL 2021, *Z. Hua et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9474909)] 
 2. **Cycu-net: Cycle-consistency unmixing network by learning cascaded autoencoders.** TGRS 2021, *L. Gao et al*.
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9383423)] [[Code](https://github.com/hanzhu97702/IEEE_TGRS_CyCU-Net)]
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9383423)]
 3. **UnDIP: Hyperspectral unmixing using deep image prior.** TGRS 2021, *B. Rasti et al*. 
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9392110)] [[Code](https://github.com/BehnoodRasti/UnDIP)]
 4. **SSCU-Net: Spatial-spectral collaborative unmixing network for hyperspectral images.** TGRS 2022, *L. Qi et al*. 
