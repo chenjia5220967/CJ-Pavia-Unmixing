@@ -98,13 +98,13 @@ A list of hyperspectral image unmixing resources collected by Jia Chen (chen_jia
 
 ## Produce paper
 
-1.CYCU 
+1.CYCU [[Code](https://github.com/chenjia5220967/CYCU)]
 
-2.NNA
+2.NNA [[Code](https://github.com/chenjia5220967/NNA)]
 
-3.3D-CNN
+3.3D-CNN [[Code](https://github.com/chenjia5220967/3DCNN)]
 
-4.DMBU
+4.DMBU [[Code](https://github.com/chenjia5220967/DMBU)]
 
 5.
 
@@ -112,11 +112,11 @@ A list of hyperspectral image unmixing resources collected by Jia Chen (chen_jia
 
 ## Improvements and tests
 
-1. CYCU+NNA
+1. CYCU+NNA [[Code](https://github.com/chenjia5220967/CYCU)]
 
-2. CYCU+3D-CNN
+2. CYCU+3D-CNN [[Code](https://github.com/chenjia5220967/CYCU)]
 
-3. DMBU+3D-CNN
+3. DMBU+3D-CNN 
 
 
 
