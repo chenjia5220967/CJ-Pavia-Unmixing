@@ -93,18 +93,22 @@ A list of hyperspectral image unmixing resources collected by Jia Chen (chen_jia
 1. **A laboratory-created dataset with ground truth for hyperspectral unmixing evaluation.** JSTARS 2019, *M. Zhao et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8681610)] [[Data](http://www.jie-chen.com/index.php?nfssp=Data)] 
 
+2.**Jasper data** [[Code](https://github.com/chenjia5220967/CYCU)]
+
+3.**Samson data** [[Code](https://github.com/chenjia5220967/CYCU)]
+
 
 <a name="Produce" />
 
 ## Produce paper
 
-1.CYCU [[Code](https://github.com/chenjia5220967/CYCU)]
+1.**CYCU** [[Code](https://github.com/chenjia5220967/CYCU)]
 
-2.NNA [[Code](https://github.com/chenjia5220967/NNA)]
+2.**NNA** [[Code](https://github.com/chenjia5220967/NNA)]
 
-3.3D-CNN [[Code](https://github.com/chenjia5220967/3DCNN)]
+3.**3D-CNN** [[Code](https://github.com/chenjia5220967/3DCNN)]
 
-4.DMBU [[Code](https://github.com/chenjia5220967/DMBU)]
+4.**DMBU** [[Code](https://github.com/chenjia5220967/DMBU)]
 
 5.
 
@@ -112,11 +116,11 @@ A list of hyperspectral image unmixing resources collected by Jia Chen (chen_jia
 
 ## Improvements and tests
 
-1. CYCU+NNA [[Code](https://github.com/chenjia5220967/CYCU)]
+1. **YCU+NNA** [[Code](https://github.com/chenjia5220967/CYCU)]
 
-2. CYCU+3D-CNN [[Code](https://github.com/chenjia5220967/CYCU)]
+2. **CYCU+3D-CNN** [[Code](https://github.com/chenjia5220967/CYCU)]
 
-3. DMBU+3D-CNN 
+3. **DMBU+3D-CNN **
 
 
 
