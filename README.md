@@ -122,7 +122,9 @@ A list of hyperspectral image unmixing resources collected by Jia Chen (chen_jia
 
 3. **DMBU+3D-CNN**
 
+4. **MAHUM** [[Code](https://github.com/chenjia5220967/MAHUM)]
 
+5. **An Auto-adaption Multi-tasks Autoencoder Hyperspectral Unmixing Model with Information Gain based on Graph Network** [[Code](https://github.com/chenjia5220967/Auto-adaption)]
 
 <a name="toolbox" />
 
