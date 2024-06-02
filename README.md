@@ -124,10 +124,10 @@ A list of hyperspectral image unmixing resources collected by Jia Chen (chen_jia
 
 4. **MAHUM** [[Code](https://github.com/chenjia5220967/MAHUM)]
 
-5. **An Auto-adaption Multi-tasks Autoencoder Hyperspectral Unmixing Model with Information Gain based on Graph Network** [[Code](https://github.com/chenjia5220967/Auto-adaption)]
+5. **Adaptive Multi-tasks Autoencoder-based Hyperspectral Unmixing Exploiting Auxiliary Data via Graph Networks** [[Code](https://github.com/chenjia5220967/Auto-adaption)]
 
 
-6. **Super resolusion-HASM** [[Code](https://github.com/chenjia5220967/HASM-SUPER)]
+6. **Enhancing the Spatial Resolution of Hyperspectral Images Combining High Accuracy Surface Modeling and Subpixel Unmixing** [[Code](https://github.com/chenjia5220967/HASM-SUPER)]
 <a name="toolbox" />
 
 ## Toolbox
